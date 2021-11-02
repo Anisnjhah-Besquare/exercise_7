@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757888436470",
+    "project_id": "mobileapp-besquare",
+    "storage_bucket": "mobileapp-besquare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757888436470:android:d4f1f04a9cee2d05c204d7",
+        "android_client_info": {
+          "package_name": "com.example.exercise_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757888436470-b90nnjlbspi0icg1ekmrrbv30499dhe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2m5tjPGPeJ5ylBTe7xQFY6xcCCxVosRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757888436470-b90nnjlbspi0icg1ekmrrbv30499dhe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
